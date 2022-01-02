@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+numpy
+tqdm
+tensorflow==2.4.1
+matplotlib
